@@ -5,7 +5,7 @@ This project implements distributed offline batch inference using Google Kuberne
 
 ---
 
-## Architectural Diagram (Text)
+## Architectural Diagram 
 
 ```
 +-------------------+         +-------------------+         +-------------------+
