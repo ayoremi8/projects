@@ -11,7 +11,7 @@ All data is **synthetic** – it mimics the structure of real logs without expos
 1. **Part A – Core activation setup & synthetic data**
 
    *Colab:*  
-   [Modeling Core Customer Activation – Part A]([https://colab.research.google.com/drive/18p5muzKLaigfUEKSWUgrqeMj5tDBk6aK?usp=sharing])
+   [Modeling Core Customer Activation – Part A](https://colab.research.google.com/drive/18p5muzKLaigfUEKSWUgrqeMj5tDBk6aK?usp=sharing)
 
    - Define the **business context** and the `Core_90d` target.
    - Specify the `photos_first_login_features` schema (one row per customer).
@@ -20,7 +20,7 @@ All data is **synthetic** – it mimics the structure of real logs without expos
 2. **Part B – Core activation modeling & insights**
 
    *Colab:*  
-   [Modeling Core Customer Activation – Part B]([(https://colab.research.google.com/drive/1mCBabpIj7njjK5UlbnLX9c1ErYTqY_Z3?usp=sharing)])
+   [Modeling Core Customer Activation – Part B](https://colab.research.google.com/drive/1mCBabpIj7njjK5UlbnLX9c1ErYTqY_Z3?usp=sharing)
 
    - Train baseline models (logistic regression, random forest) to predict `is_core_90d`.
    - Identify acquisition + early-usage drivers of Core activation.
@@ -32,7 +32,7 @@ All data is **synthetic** – it mimics the structure of real logs without expos
 3. **Part C – Video strategy simulation (integrated vs standalone)**
 
    *Colab:*  
-   [Video Strategy Simulation – Part C](https://colab.research.google.com/drive/1HI7hT58J0tFLY7F9JwlacAwloVw7Vvw2#scrollTo=MT-bM5NtAxKs)
+   [Video Strategy Simulation – Part C](https://colab.research.google.com/drive/1HI7hT58J0tFLY7F9JwlacAwloVw7Vvw2?usp=sharing)
 
    - Define **priors** for video adoption & impact per segment.
    - Simulate integrated vs standalone scenarios on a 24M-active base.
