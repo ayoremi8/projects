@@ -11,7 +11,7 @@ All data is **synthetic** – it mimics the structure of real logs without expos
 1. **Part A – Core activation setup & synthetic data**
 
    *Colab:*  
-   [Modeling Core Customer Activation – Part A](https://colab.research.google.com/drive/18p5muzKLaigfUEKSWUgrqeMj5tDBk6aK#scrollTo=vdipBatXjW9x)
+   [Modeling Core Customer Activation – Part A]([https://colab.research.google.com/drive/18p5muzKLaigfUEKSWUgrqeMj5tDBk6aK?usp=sharing])
 
    - Define the **business context** and the `Core_90d` target.
    - Specify the `photos_first_login_features` schema (one row per customer).
