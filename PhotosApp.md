@@ -20,7 +20,7 @@ All data is **synthetic** – it mimics the structure of real logs without expos
 2. **Part B – Core activation modeling & insights**
 
    *Colab:*  
-   [Modeling Core Customer Activation – Part B](https://colab.research.google.com/drive/1mCBabpIj7njjK5UlbnLX9c1ErYTqY_Z3#scrollTo=JD1bbqfVpSzd)
+   [Modeling Core Customer Activation – Part B]([(https://colab.research.google.com/drive/1mCBabpIj7njjK5UlbnLX9c1ErYTqY_Z3?usp=sharing)])
 
    - Train baseline models (logistic regression, random forest) to predict `is_core_90d`.
    - Identify acquisition + early-usage drivers of Core activation.
