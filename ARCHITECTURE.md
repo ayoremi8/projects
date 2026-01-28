@@ -1,5 +1,9 @@
 # TickerIQ System Architecture Overview
 
+## Demo 
+[![Watch the video](https://img.youtube.com/vi/K4dafhso2xo/0.jpg)](https://youtu.be/K4dafhso2xo)
+
+
 ## 1. System Overview
 TickerIQ is a modular financial analytics platform designed for scalable, multi-agent research and analysis. The system integrates real-time data sources, advanced AI agents, and a modern web interface to deliver actionable insights for financial analysts and investors.
 
